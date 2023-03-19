@@ -1,0 +1,15 @@
+{ "layer": "top",
+    "modules-left": ["battery"],
+    "modules-center": ["hyprland/window"],
+    "modules-right": ["clock", "network"],
+    "sway/window": {
+        "max-length": 50
+    },
+    "battery": {
+        "format": "{capacity}% {icon}",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "clock": {
+        "format-alt": "{:%a, %d. %b  %H:%M}"
+    }
+}
