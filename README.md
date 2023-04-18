@@ -1,4 +1,5 @@
 # configs
 Install hyprland-git
-Use synth-shell for kitty
+
+Use synth-shell only for kitty
 
