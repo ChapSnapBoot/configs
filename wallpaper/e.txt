@@ -1,3 +1,4 @@
 Download wallpaper
+Put wp.sh into ~/.config and rename to .we.sh (and give execute permission)
 
 https://hdqwalls.com/arch-liinux-4k-wallpaper
